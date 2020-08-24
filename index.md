@@ -11,6 +11,7 @@ The data was downloaded from [SBIR](https://www.sbir.gov/sbirsearch/award/all), 
 
 # List of Awards
 
+<div id="datatable">
 |ID|Award Title|Award Year|Keywords|URL|
 | :--- | :--- | :--- | :--- | :--- |
 |1|Virtual Assistant for Air and Space Operations Center Staff|2019|virtual assistant, artificial intelligence, machine learning, command and control, air and space operations center|[Link](https://github.com/chrischow/dod_sbir_awards/blob/master/Reports/%5B001%5D%20Virtual%20Assistant%20for%20Air%20and%20Space%20Operations%20Center%20Staff.md)|
@@ -179,3 +180,4 @@ The data was downloaded from [SBIR](https://www.sbir.gov/sbirsearch/award/all), 
 |164|PROPOSAL TO BASELINE ARTIFICIAL INTELLIGENCE ASSISTANCE FOR AIRCREWSFOR THE YEAR 2000|1984||[Link](https://github.com/chrischow/dod_sbir_awards/blob/master/Reports/%5B164%5D%20PROPOSAL%20TO%20BASELINE%20ARTIFICIAL%20INTELLIGENCE%20ASSISTANCE%20FOR%20AIRCREWSFOR%20THE%20YEAR%202000.md)|
 |165|THE OBJECTIVE IS TO ASSESS THE FEASIBILITY OF INTEGRATING DECISION ANALYSIS, ARTIFICIAL INTELLIGENCE AND OPERATIONS RESEARCH PLANNING AIDS INTO AN INTEGRATED SET OF AIDS FOR PERFORMING FUNCTIONS IN OCA MISSION PLANNING, FROM THE TARGET NOMINATION LEVEL|1983||[Link](https://github.com/chrischow/dod_sbir_awards/blob/master/Reports/%5B165%5D%20THE%20OBJECTIVE%20IS%20TO%20ASSESS%20THE%20FEASIBILITY%20OF%20INTEGRATING%20DECISION%20ANALYSIS%2C%20ARTIFICIAL%20INTELLIGENCE%20AND%20OPERATIONS%20RESEARCH%20PLANNING%20AIDS%20INTO%20....md)|
   
+</div>
