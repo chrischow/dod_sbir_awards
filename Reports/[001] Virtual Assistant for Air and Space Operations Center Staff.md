@@ -16,4 +16,4 @@ As modern command and control tools provide access to multiple information strea
   
 
 
-<a href="javascript:history.back()">Back to Home</a>
+[Back to Home](javascript:history.back())
