@@ -1,7 +1,6 @@
----
-layout: default
-title: Virtual Assistant for Air and Space Operations Center Staff
----
+
+Virtual Assistant for Air and Space Operations Center Staff
+===========================================================
 
 # Abstract
 
