@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Virtual Assistant for Air and Space Operations Center Staff
 ---
 
