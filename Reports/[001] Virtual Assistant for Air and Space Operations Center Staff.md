@@ -1,6 +1,7 @@
-
-Virtual Assistant for Air and Space Operations Center Staff
-===========================================================
+---
+layout: page
+title: Virtual Assistant for Air and Space Operations Center Staff
+---
 
 # Abstract
 
