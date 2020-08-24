@@ -17,3 +17,5 @@ As modern command and control tools provide access to multiple information strea
 
 
 [Back to Home](https://github.com/chrischow/dod_sbir_awards)
+
+<div><a href="javascript:history.back()">Back to Home</a></div>
