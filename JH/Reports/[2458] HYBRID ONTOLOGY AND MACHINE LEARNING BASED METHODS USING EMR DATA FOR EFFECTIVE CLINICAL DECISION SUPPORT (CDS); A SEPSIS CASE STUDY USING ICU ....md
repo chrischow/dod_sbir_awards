@@ -1,0 +1,21 @@
+
+HYBRID ONTOLOGY AND MACHINE LEARNING BASED METHODS USING EMR DATA FOR EFFECTIVE CLINICAL DECISION SUPPORT (CDS); A SEPSIS CASE STUDY USING ICU DATA
+===================================================================================================================================================
+
+# Abstract
+
+
+DESCRIPTION  provided by applicant    Our research is focused on the use of advanced ontological models as a foundation for computerized Clinical Decision Support  CDS  systems that link hospitalized patient data routinely captured in electronic medical records  EMRs  with medical knowledge to effectively influence timely awareness and treatment choices by clinicians  Our phase   goal is to demonstrate how our advanced CDS technology has the potential to improve preventable mortality outcomes associated with sepsis in ICU patients  We distinguish two types of CDS algorithms available today for detecting and or predicting sepsis using EMR data     evidence based andquot knowledge drivenandquot  detection algorithms  and    data driven andquot predictiveandquot  algorithms based on machine learning  ML  techniques  Recent studies indicate currently available CDS tools do not reduce risk of death in hospitalized patients  We believe this may be because diseases such as sepsis are time sensitive  complex syndromes and also due to the challenges of computerized reuse of unstructured EMR data  Our sepsis ontology models this complexity to  a  provide enhanced knowledge driven sepsis risk  stratified cohort classifications that help guide interventions  b  support accurate natural language processing  NLP  of free text clinical notes to enhance real time sepsis risk detection  and c  improve the accuracy of data  driven prediction models when used in conjunction with ML training algorithms  Our CDS is based on proprietary cluster computing technology we call andquot VFusionandquot  designed to efficiently deal with the generation and practical use of large  application domain specific ontologies  Our sepsis ontology employs a family of upper level ontologies  combined with granular evidence based domain ontologies  configurable rule sets  e g  first order logic based   and required components of reference terminologies  Our research will use openly available ICU patient data to establish statistical detection prediction performance metrics using this ontology in   modes of use     as a knowledge based screening tool to detect subtle signs of sepsis in individualized hospitalized patients     used in conjunction with ML to improve data driven predictive performance  We will measure specificity sensitivity  and positive negative predictive power of our hybrid ontology based technology to demonstrate dramatically improved performance over existing CDS algorithms  In Phase II we plan a retrospective demonstration with a much larger sample of patients to include non ICU patients in collaboration with a major healthcare system  Our product vision is an early inpatient sepsis detection algorithm with high accuracy embodied as a andquot plug in applicationandquot  compatible with any modern EMR platform in use at a client hospital effective in both ICU and non ICU care settings    
+   
+PUBLIC HEALTH RELEVANCE   Even with the advent of powerful  new computer medical record technologies used in hospitals  the risk of death has not been reduced in hospitalized patients  The goal of this research effort is to combine medical record systems with advanced cognitive technologies that are commonly used today in products such as the iPhone andquot Siriandquot  to improve clinician awareness and decisions that will dramatically reduce preventable mortality  Our initial use case will be the management of sepsis   the leading cause of death in non coronary intensive care units in hospitals  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2015|$149,100||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JH/#2458)

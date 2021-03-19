@@ -1,0 +1,19 @@
+
+Pediatric sepsis prediction: a machine learning solution for patient diversity
+==============================================================================
+
+# Abstract
+
+
+AbstractSignificanceInthisSBIRprojectweproposetopredictanddetectpediatricseveresepsisbydevelopingamachinelearningbasedclinicaldecisionsupportsystemforelectronichealthrecordEHRpediatricsepsisscreeningThe pediatric population is underservedwith fundamental research and understanding of pediatricsepsissyndromeslaggingbehindthatoftheadultpopulationTheproposedworkwilldevelopmachinelearning sepsis predictions on the highly heterogeneous pediatric populationby combining multitask learningmethods with expert clinical knowledge of how pediatric sepsis presentation is dependent on age and on preexistingconditionsThemultitasklearningapproachwilluseageorcomorbiditiestodefinetaskseachoneassociatedwithpredictiononaparticularsubpopulationandthenlinkthelearningprocesstogetherbetweentasksResearch QuestionsWhich methods of using these taskdefining parameters are most effectiveHowcanwemosteffectivelylearnthedegreeofsimilaritybetweenpediatricsubpopulationsandleveragethistoimprove classification performancePrior WorkInSight was originally developed to predict sepsis and septicshock from adult EHR dataAfter retraining on pediatric casesin preliminary experiments with a retrospectivesetofpediatricyrinpatientencountersnseverelysepticattheUniversityofCaliforniaSanFranciscoUCSFInSightachievedanAUROCandforthedetectionandhourpreonsetpredictionofsepsisThisperformancecanbeimprovedforbetterpediatricsepsispredictionSpecificAimsToempiricallyevaluatedifferentlearningschemesusingagewithandwithoutmultitaskmethodswithintheUCSFpediatricseveresepsisdatasetAimToexploitanexpertproposednetworkgraphstructureforcomorbiditydescribedpediatricsubpopulationsthatprovidessuperiorpredictiveperformanceoverna vemethodsandgraphsbothfortheoverallpopulationandforunderservedsubpopulationsAimMethodsWeproposetousemultitaskmethodsthatpenalizedeviationsbetweenclassifiersonneighboringtasksandthatiterativelylearnthestrengthoftheselinksThesemethodswillbecompared with total task independenceor passing age into classifier training as an ordinary inputCriteria forSuccessSuccesswillbeshownbyhourpreonsetAUROCgainsofoverallpopulationandforthe previously weakest of three age subpopulationsandyrshour preonset predictionp andltMcNemar s testfold crossvalidationThe best structure for mapping similarities between comorbiditytasks will improve the overall AUROC byp andltand byforcomorbidity subpopulations ofpatientsp andltOutcomeThese improvements will enable InSight to deliver strong sepsis predictiveperformance across the widely heterogeneous pediatric populationNarrativePediatricsepsiscanbedifficulttodiagnoseinpartbecause thepediatricpopulationishighlyheterogeneousclinicaldecisionsupportCDSsystemshavethepotentialtoaidinthediagnosisandpredictionofpediatricsepsisif the underlying diversity of the pediatric population is correctly addressedWe will develop a machinelearningbasedsepsisCDSsystembyusingmultitasklearningtechniquestodefineasetoftaskseachcorrespondingtopredictingseveresepsisinaclinicallydistinctsubpopulationofpediatricinpatientstogetherwithasetofintertaskconnectionsthatshareinformationbetweensimilarsubpopulationsThiswillenableimproved sepsis prediction across the widely heterogeneous and underserved pediatric patient population  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2018|$299,999||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JH/#2443)

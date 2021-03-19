@@ -1,0 +1,19 @@
+
+Development of the Breakthrough VorCat TechNology for Cloud-Based Complex Energy Simulations
+============================================================================================
+
+# Abstract
+
+
+The over-arching goal of this SBIR project is to offer Vorcat, Inc.'s ("Vorcat") breakthrough Computational Fluid Dynamics (CFD) technology in a High Performance Computing (HPC) cloud environment so as to extend its current reach and foster adoption. The cloud app(s) proposed here addresses the problem of advancing current capabilities for designing next generation automotive and wind-turbine technologies through developing reliable and efficient means for simulating (and thereby reducing the energy consumption associated with) turbulent flows about complex settings. Ultimately, the same platform can be extended to solve a myriad of turbulent flow design problems whose solutions are required to optimize and protect critical civil and military infrastructure. In Phase I, testing and validation of our source code were performed on automotive configurations, including the Cronuz, an electric concept SUV developed by APPLUS+IDIADA (“IDIADA”), Vorcat's software distributor in the EU. We demonstrated that by selecting a small number of run parameters that dictate solution resolution, even a non-expert user will be able to employ the code for their applications as no guess work, intervention, or tweaking in real time is needed - all problems are treated in a consistent manner. Given the present shortage of experienced fluid mechanics engineers in a strong high technology driven economy, Vorcat’s solution offers big potential productivity gains for companies’ hiring newly graduated engineers. In Phase II, several improvements to and extensions of the code will be developed so as to construct and launch an App that is robust, fast, and reliable, unlike any product that is offered in the automotive sector. In order to achieve optimal results, Vorcat partnered with HyperComp and Nimbis Sevices, two US companies that will serve as subcontractors: HyperComp will develop a simplified gridding-tool App customized to Vorcat’s specs and Nimbis will host and sell Vorcat’s and HyperComp Apps on Vorcat’s virtual store in the cloud. This will allow us not only to offer users pre-processing, processing, and post-processing capabilities in one place, but also to simplify and streamline the entire process. Lastly, in Phase I, we reached a joint effort agreement with IDIADA to customize and extend the core technology to meet the needs of the automotive CFD market. Based on many years of experience in automotive CFD, IDIADA’s managers have elected to team up with Vorcat to meet said objective and become Vorcat’s exclusive distributor of the resulting software in the Automotive OEM market. IDIADA’s investment is estimated at $800K: Vorcat will be utilized, (i) in a funded Ph.D. program and, (ii) as a high-fidelity tool in the EU commission’s UPSCALE project that aims at improving CFD simulations through Machine-Learning/AI paradigms. This in-kind contribution by IDIADA has strong synergy with our Phase II plan and, if it progresses as planned, it will allow us to aim at launching an additional, second App in the Phase II time frame. The candidate App will target wind/hydro-turbine flows and it can be used in planning the optimal placement of turbines in wind farms, an application already tested and validated in past work.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2019|$1,487,301||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/CC/#771)

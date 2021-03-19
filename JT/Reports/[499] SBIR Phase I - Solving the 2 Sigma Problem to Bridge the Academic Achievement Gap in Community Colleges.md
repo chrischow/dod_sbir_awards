@@ -1,0 +1,19 @@
+
+SBIR Phase I: Solving the 2 Sigma Problem to Bridge the Academic Achievement Gap in Community Colleges
+======================================================================================================
+
+# Abstract
+
+
+This SBIR Phase I project aims at solving Benjamin Bloom's 2-Sigma Problem by building a web platform where community college professors and student tutors alike can remotely assist students with their courses. Most community college students are commuter students with jobs and families to cater to. They can't always be present on campus. The web platform would leverage existing resources on campus, professors' office hours and student learning centers' available tutors, to provide remote help to students. The project is inspired by Bloom's findings in 1984 where he demonstrated that students receiving tutoring performed better than 98% of their peers. However, such a system was not possible to implement at that time for all students because it would have required significant increase in education budgets for colleges. Hence, he labeled it the 2-Sigma problem and predicted that future technological advances will enable such a solution. The proposed web platform is indeed such a solution for community colleges nationwide. It may serve a critical national need for increased post-secondary credentials achievement to help prepare the future workforce by addressing the low graduation rates in community colleges nationwide. Increasing credentialed workers in the United States is imperative to sustain competitiveness as well as economic growth. The current graduation rate stands at less than 20% after 4 years spent in 2-year colleges and 70% of enrolled students leave community college without a degree. This negatively impacts economic growth in the United States, as 7 million jobs are currently unfilled. Attrition is correlated to accumulated learning deficiencies that build up throughout a semester. The proposed tutoring platform would help students catch up on poorly understood concepts as soon as they identify their learning deficiency by giving them the ability to ask questions directly to their instructor and get the immediate help they need before it's too late. The technical challenge resides in designing an intuitive, user-friendly remote tutoring platform that can achieve a high adoption rate among instructors and students in community colleges without any training. Many students have basic smartphones with limited memory and processing power. The solution needs to allow tutors to remotely communicate with students regardless of the quality of their connectivity. It also must convert technophobe instructors to contribute to the platform, as instructors' participation plays a critical role in the success of such a remote tutoring solution. The technology should also easily integrate with all existing information technology systems on campus and provide analytical capabilities to measure its impact on students' grades. Professors and student tutors will list modules online and schedule tutoring sessions that can take place synchronously or asynchronously. We will collect valuable chat/conversation data and then during phase II, apply Natural Language Processing, convert unstructured text into a structured format, and then apply machine learning algorithms to build a tutoring AI assistant that can be used for most disciplines. This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2019|$224,200||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JT/#499)

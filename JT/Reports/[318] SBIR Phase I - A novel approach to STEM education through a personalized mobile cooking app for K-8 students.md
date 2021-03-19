@@ -1,0 +1,19 @@
+
+SBIR Phase I: A novel approach to STEM education through a personalized mobile cooking app for K-8 students
+===========================================================================================================
+
+# Abstract
+
+
+This SBIR Phase II project deals with the development of a gamified educational platform meant to excite and inspire children to learn about the sciences through the medium of cooking. By engaging students with interactive content in K-8 classrooms, after school programs, and special education settings, the proposed innovation aims to simultaneously accomplish three outcomes that are important to K-8 students' education and healthy living. These outcomes include: (1) helping students develop a highly practical skill (cooking), (2) generating excitement about and enhancing learning in several scientific disciplines (particularly nutrition science, STEM, and human geography), and (3) promoting a highly desirable behavior in students (the development of healthy eating habits). This project proposes to develop a prototype version of the innovative educational technology. It builds upon an existing proof-of-concept application that integrates nutrition science (in the form of cooking recipes) with human geography (different countries and cultures) and significantly enhances this application by innovatively linking the cooking-related content to a STEM curriculum and testing the addition of a variety of capabilities meant to increase user engagement and learning through the application. This Phase I proposal will research the feasibility and usability of the product, and investigate the extent to which the proposed technology is able to simultaneously achieve the three stated outcomes in a way that outperforms traditional paper-based school curricula. With the market for mobile learning products valued at $12.2 billion, the company's three-pronged approach to improving learning and health-related outcomes for K-8 students stands to generate significant revenue. The team estimates that the business can reach roughly 2 million in sales in the first three years following the product?s launch. The proposed research will explore (1) various ways for the system to automatically link cooking concepts with STEM concepts in a way that enhances learning and engagement and produces a curriculum compliant with Next Generation Science Standards, (2) the application of emotional intelligence to data gathered, such that the technology will track students? mood and food choices, and provide suggestions based on an optimal match between the two, and (3) the use of adaptive learning to effectively deliver the above curriculum in a targeted and personalized manner (including accommodations for children with special needs during Phase II). These outcomes will be achieved by creating and testing new capabilities for the system, including the ability to monitor user performance, a points-based progression system, personalization, customized STEM games, and matching students with recipes and lesson plans based on their culinary preferences and emotional moods, the majority of which will be implemented via the use of machine learning. Overall, the goal of the small business is to develop several different app features that incorporate the above-mentioned approaches, and to determine, through repeated and rigorous classroom testing with K-8 students, which combination of features maximizes the learning and behavioral outcomes that the application is targeting.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2017|$225,000||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JT/#318)

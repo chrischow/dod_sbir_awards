@@ -1,0 +1,19 @@
+
+SBIR Phase II: Personalization Platform to Enhance Third-Party Children&#039;s Content and Improve School Readiness
+===================================================================================================================
+
+# Abstract
+
+
+This SBIR Phase II project addresses the issue that while mobile devices hold great promise for education, most of the kids' apps that claim to be educational ultimately amount to little more than brain candy. Furthermore, the few apps that are based on educational research are resource-intensive to develop and therefore have limited opportunity to scale their success. This project is building an educational platform that addresses the problems of both quality and scale in this market. It is creating a content enhancement system designed specifically for creating research-based educational content that allows developers and content studios to build mobile and web apps at a fraction (10%-20%) of the cost of traditional app development. The content built using this system is automatically integrated with analytics and personalization technology that tailors the content to each child based on the child's responses. The personalization technology applies methods from psychometrics and cognitive development to ensure that the content adapts to the child and facilitates learning in an engaging way. The project will deliver a large library of context-based and personalized learning content for preK and primary grades that parents know is based on sound research, and ultimately helps increase school readiness and learning outcomes. Given the growing demand for age-appropriate mobile educational content for children, this project has the potential to generate significant returns as a commercial enterprise and, importantly, through the economic gains resulting from improvements in educational outcomes. It will also give content developers the opportunity to economically develop and deploy new content that uses personalization technology, without having to build this complex technology themselves, thereby applying this innovation at a large scale. This SBIR Phase II project is building a mobile game-based learning platform to onboard high quality third-party children's educational content and enhance their effectiveness through analytics and personalization. To achieve this, the project is developing two significant technical innovations: (1) a cloud-based personalization engine that powers adaptive learning in varied educational contexts and (2) a content enhancement system to efficiently and economically enrich third-party children's content (in the form of digital assets, books, or videos) with interactive learning games that are powered by the personalization logic. The personalization engine will use machine learning techniques combined with statistical methods of psychometric assessment and principles from cognitive development. It will inconspicuously measure children's interaction with the proposed platform's educational content and dynamically adjust game-play to suit each user's individual skills, interests and educational needs. The proposed model of leveraging and augmenting the efforts of many content developers is a dramatic departure from existing content development paradigms in this space. The goal of the project is to substantially increase the scale and reach of personalized, research-based learning experiences on mobile devices and ultimately maximize the potential of modern technology to deliver dynamic learning experiences.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2016|$737,317||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JT/#225)

@@ -1,0 +1,19 @@
+
+The nGoggle: A portable brain-based device for assessment of visual function deficits
+=====================================================================================
+
+# Abstract
+
+
+PROJECT SUMMARY Assessment of loss of visual function outside the foveal area is an essential component of the management of numerous conditionsincluding glaucomaretinal and neurological disordersDespite the significant progress achieved with the development of standard automated perimetrySAPmany decades agoassessment of visual field loss with SAP still has significant drawbacksSAP testing is limited by subjectivity of patient responses and high test retest variabilityfrequently requiring many tests for effective detection of change over timeMoreoveras these tests are generally conducted in clinic based settingslimited patient availability and health care resources often result in an insufficient number of tests acquired over timewith delayed diagnosis and detection of disease progressionThe requirement for highly trained technicianscostcomplexityand lack of portability of SAP also preclude its use for screening of visual field loss in underserved populationsTo address shortcomings of current methods to assess visual functionwe have developed the nGogglea wearable device that uses a head mounted displayHMDintegrated with wireless electroencephalographyEEGcapable of objectively assessing visual field deficits using multifocal steady state visual evoked potentialsmfSSVEPAs part of the funded NEI SBIR Phase Iwe developed the nGoggle prototype using a modified smartphone based HMD display and non disposable electrodesIn our Phase I studieswe conducted benchmarking tests on signal quality of EEG acquisitiondeveloped methods for EEG data extraction and analysisand conducted a pilot study demonstrating the ability of the device to detect visual field loss in glaucomaa progressive neuropathy that results in characteristic damage to the optic nerve and resulting visual field defectsWe also identified limitations of current existing displays and electrodesas well as potential avenues for enhancing test reliability and improving user interfaceBased on the encouraging results from Phase I and a clear delineation of the steps needed to bring the device into its final commercial product formwe now propose a series of Phase II studiesWe hypothesize that optimization of nGoggleandapos s accuracy and repeatability in detecting visual function loss can be achieved through the development of a customized head mounted display with front view eye pupil tracking cameras and disposable no prep electrodesas well as enhancement of the visual stimulation protocol and data analyticsThe specific aims of this proposal areTo develop a customized head mounted display and enhanced no prep electrodes for improving nGoggleandapos s ability to acquire usersandaposmfSSVEP with high signal tonoise ratiosSNRin response to visual stimulationTo optimize and validate mfSSVEP stimuli design and data analytics to enhance the accuracy and repeatability of assessing visual function loss with the nGoggleComplete pivotal clinical studies to support FDA approval PROJECT NARRATIVE NGoggle Inchas developed the nGogglea wearable device that uses a head mounted display integrated with wireless electroencephalographycapable of objectively assessing visual field deficits using multifocal steadystate visual evoked potentialsNGoggle Inc is now proposing to optimize nGoggleandapos s accuracy and repeatability in detecting visual function loss with the use of a customized displayadherent no prep electrodesoptimized visual stimuli and data analyticsIt will also complete pivotal clinical studies to support FDA approval  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2018|$1,692,924||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JH/#2358)

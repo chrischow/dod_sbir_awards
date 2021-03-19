@@ -1,0 +1,19 @@
+
+Integrated point-of-care diagnostic and data reporting platform for emerging arboviruses
+========================================================================================
+
+# Abstract
+
+
+Overbillion people live in areas that are affected by the transmission of arthropod borne virusesarbovirusessuch as the flaviviruses dengueDENVand ZikaZIKVand the alphavirus chikungunyaCHIKVThese arboviruses are pathogenic and cause millions of infections annuallyWhile the surveillance is critical to understanding infection ratescontrolling outbreaksand informing patient therapeutic effortsthere is no FDAapproved method to simultaneously detect multiple arboviral infections at the point of care and analyzedocumentand report data in real timeIn this Phaseproposal we will optimize thePlexa miniaturized pointof care lateral flow test for finger prick blood or serum that can distinguish between infections of DENVZIKVand CHIKVand integrate our patented phone based image recognition application with geo referenced applicationse gDistrict Health Information SystemDHISfor real time epidemiological reportingOur proposedPlex is a low cost test that can be done in the field without moving partsor the necessity of trained personnelexpensive equipmentor a centralized laboratoryStudies proposed here will leverage our recent advancesincluding identification of monoclonal antibodiesmAbsthat recognize flaviviral non structural proteinNSor alphaviral envelopeEspecific antigen with optimal binding capacity and without cross reactivity when utilized in a singlemultiplex testThe intellectual property of the diagnostic technology being optimized in this SBIR was developed by the investigators and global rights are exclusively held by EBioIn Aimwe will fine tune a panel of immunological characterization assays focusing on mAb specificity and sensitivity and scale up production of candidate monoclonal antibodiesIn Aimwe will advance development and validation of thePlex prototypeWe will test DENVZIKVand CHIKV supernatants from infected Vero cellsand confirm the limit of detection with de identified human samplesIn Aimwe will integrate our mobile phone image recognition application with predictive algorithms to report data in real timeThis project is innovative because it is the first platform that allows point of care arboviral antigen based detection and real time data analytics for infection geotagging and outbreak managementUpon successful completion of this Phase I projectwe will have developed a first of its kind platformwhich provides an all in one solution to arboviral detection and data reportingthat will be ready for field testing and regulatory validationThese results will lead to a Phase II project to conduct clinical trials in Colombia to assess diagnostic efficacy in clinical settings To monitor viral infections and control emerging outbreaksa diagnostic test that can simultaneously detect among multiple viruses at the point of careand a platform to report data in real time is essentialEBio will generate the first lateral flow antigen based test to simultaneously detect dengueZikaand chikungunya in less thanminutesAimsandand develop a mobile smartphone application for test result data reportingAimsThis viral detection and data reporting platform will be a simple yet powerful tool at the disposal of both infected individuals and organizations responsible for outbreak management  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2019|$150,781||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JH/#2386)

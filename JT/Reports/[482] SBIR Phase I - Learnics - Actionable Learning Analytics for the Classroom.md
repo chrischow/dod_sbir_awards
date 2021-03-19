@@ -1,0 +1,19 @@
+
+SBIR Phase I: Learnics: Actionable Learning Analytics for the Classroom
+=======================================================================
+
+# Abstract
+
+
+This SBIR Phase I project is funding research that will lead to the development of software and processes that are aimed at helping teachers to improve their instruction by providing them with actionable analytics about how their students are learning. Using targeted learning analytics, this project will bring to individual teachers in the classroom useful information about how their students are learning on the web. Rather on focusing on large-scale, state- or nationwide- analytics as is currently common in the research, the focus of this high-risk research is to develop analytics about individual students for use by individual teachers in the classroom. Armed with these analytics, teachers will be able to better understand the strengths and limitations of their individual students, especially as compared to their classroom. The project will create software and algorithms that will exploit the strengths of both teachers and computers by allowing teachers to focus on students, while computers to focus on information and analytics. The result: better, more useful information for teachers to help their students achieve their full potential. This research will help to fill a void that exists in the way teacher receive formative information about their students? online activity. Teachers are often blind to the actual online learning experience that is taking place, leading to missed educational opportunities and suboptimal education. This project will bridge this gap and create instructional methods and online activities that finally realize the promise offered by technology. This SBIR Phase I project is funding high-risk research that will lead to the development of software and algorithms that help teachers improve their instruction by providing them with actionable analytics about how their students are learning. Through the use of targeted online learning analytics, this project will bring to individual teachers in the classroom useful information about how their individual students are learning. Current research focuses on large-scale, state- or nationwide- analytics, which comes years too late and is too broad to be usable by individual teachers to help students. The focus of this high-risk research is to develop analytics about individual students for use by individual teachers in the classroom in real-time, and monitor progress of these analytics throughout the school year. Armed with these analytics, teachers will be able to better understand the strengths and limitations of their individual students, especially as compared to their classroom. Using machine learning and NLP, these new algorithms and processes will be able to better ascertain learning analytics such as student engagement, digital literacy, and off-task behavior, to list a few. The result: automatic, actionable analytics for teachers to assist students in achieving their full potential. This high-risk research will help to fill a void that exists in the ways teachers receive formative information about their students' online activity. Teachers are often blind to the actual online learning experience that is taking place. This project will bridge this gap and create instructional methods, online activities, and curriculum that finally realize the promise offered by technology. This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2019|$224,700||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JT/#482)

@@ -1,0 +1,19 @@
+
+SBIR Phase II: Efficient Custom Machine Learning for Embedded Intelligence in the Internet of Things
+====================================================================================================
+
+# Abstract
+
+
+The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will result in a significant improvement in the performance, power, and cost of deploying machine learning (ML) solutions through horizontal platform technologies that enable many vertical applications. This improvement will accelerate deployment of intelligent systems and improve scalability through localized intelligence. Our technology automates hardware design, implementation, and deployment to Field-Programmable Gate Array (FPGA) platforms. Our initial target verticals: Security and Surveillance, Predictive Maintenance, and Healthcare represent hundreds of billions USD in growth markets for IoT devices and substantially more economic impact through improved efficiency in deployment and operations and reduced societal costs. Improved performance, power consumption and scalability of these key technologies will lead to improved public safety, improved intelligence in home healthcare services, and more efficient manufacturing and energy systems through deployment of Predictive Maintenance technologies on key industrial equipment. Wide deployment of these technologies will lead to substantial energy savings and a corresponding reduction in carbon emissions, reduced economic loss due to negative events, improved scalability and response time to predicted or active negative events, and lower cost in deployment and operations due to low cost, low power, and physically small sensor systems. The proposed project focuses on design of high performance, energy-efficient platforms for ML applications, and associated design tools and libraries. Neural networks are heavily used for many machine learning problems but optimizing for efficient deployment currently requires extensive trial-and-error for the large design space of options. Our deep neural network (DNN) optimization framework applies bit-width optimizations, weight sharing and pruning automatically to reduce computation and weight storage demands by more than 10X, while analyzing quality of results impact and using fine-tuned retraining to minimize or eliminate accuracy degradation. Our high level synthesis (HLS) tool then translates optimized networks to hardware while applying pipelining, functional unit parallelism, resource sharing, and platform-specific optimizations. Together these tools automate and accelerate the process of analyzing, optimizing and implementing ML for hardware deployment, reducing time and required expertise for hardware design. Our deployment platforms are modular, composable platforms for small, low-cost deployments of audio/video signal processing, feature extraction and classification, systems control (e.g. pan-tilt-zoom cameras), and communications to decision-making or cloud services. We will extend competitive advantages from our Phase I project with features for solutions in the security/surveillance, predictive maintenance, and healthcare verticals, and tight integration of platforms, tools and IP libraries. This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2018|$750,000||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JT/#422)

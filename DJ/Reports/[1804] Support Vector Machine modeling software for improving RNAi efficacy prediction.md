@@ -1,0 +1,19 @@
+
+Support Vector Machine modeling software for improving RNAi efficacy prediction
+===============================================================================
+
+# Abstract
+
+
+DESCRIPTION (provided by applicant): Title Support vector machines predict sequence ~ activity relationships in RNA interference Project Summary/Abstract Support Vector Machines (SVMs) are a group of algorithms in supervised machine learning that are able to build classification or regression models on training data such that these models can be used to predict information not seen during model construction. RNA interference (RNAi) is the property of small (20 to 23 bases) RNA sequences that with the help of the RNA Induced Silencing Complex (RISC) enable the catalytic cleavage of target RNA sequences and the knockdown of the expression level of the target gene. The steps involved in loading and associating an RNAi sequences into an active RISC are several in addition to the multi-factorial variation in biochemical activities of RNAi sequences once in an active RISC. Finding the relevant biochemical features that associate with these quantifiable measures of RNAi can allow i) better predictive models of RNAi and RNAi-like (e.g. microRNAs) activities and ii) a better understanding of the relevant biochemical properties since presumably less relevant properties should not increase the predictive abilities of models containing those properties. We have developed a novel feature mapping method, referred to as Binary Base mapping, that improves the ability of a SVM to predict RNAi activities when compared to two previous methods, refered to as Unit Vector and N-gram mapping. Alone, the Binary Base SVM method has greater predictive accuracy than a recently published neural network machine learning method, on the same training and testing data. Several additional mapping methods can be envisioned, including methods that incorporate RNAi thermodynamics, secondary structure or measures of entropy, and whether alone or in combination these mappings of sequence to vector space for SVM model construction lead to better predictive models or understanding of RNAi biochemistry is unknown. We are requesting funding for the specific aims of: i) testing whether the Binary Base method can be used to further dissect and identify relevant biochemical feature associated with RNAi activity, ii) analyzing what additional vector mapping methods lead to predictive models with increased accuracy or greater understanding of relevant biochemical properties, and iii) investigating the distribution of sites within and among target mRNA genes where predictive SVM models identify high versus low activity. Title Support vector machines predict sequence ~ activity relationships in RNA interference Project Narrative Small non-coding RNAs (sncRNAs) have regulatory influence in human development and disease and better understanding how these molecules function involves the development of predictive models. Machine learning methods such as Support Vector Machines (SVMs) are one way to develop predictive models for these small RNA sequences and the incorporation of novel mapping methods in SVMs leads to model improvement. Finding and combining additional sequence mapping methods can lead to better predictive models for RNA interference activity as well as related processes such as microRNA activity, chemical modification of RNAi and RNAi stability or RNAi toxicity; further improving the understanding of how scnRNAs function and how they might be regulated.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2006|$97,773||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/DJ/#1804)

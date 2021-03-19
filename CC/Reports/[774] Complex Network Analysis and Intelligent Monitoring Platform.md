@@ -1,0 +1,19 @@
+
+Complex Network Analysis and Intelligent Monitoring Platform
+============================================================
+
+# Abstract
+
+
+As the world continues to rely more heavily on connectivity, it becomes more and more imperative that the networks that support the technical applications leverage intelligence to guide the network operations management. These networks and the applications that utilize them produce massive complex data that range from structured, unstructured, geo-spatial, images, real and historical to name a few. It is essential that the big complex data from network activity be processed and analyzed to extract tangible intelligence for optimization, protection and overall management of the underlying network. Data Products advocates an intelligent decision platform to address the challenges of managing networks which leverages complex data and advance machine learning methods. Our platform retrieves vast amount of available complex network data upon which machine learning techniques, network analytic algorithms, and other computational intelligence techniques can be applied to develop network tools and a network performance prediction tool in order to [sic]. Types of complex data collected (as allowed by the enterprise network policy) will include users’ traffic logs, network management data, PerfSONAR type data, active and passive network management measurement data, real time and historic structured and unstructured data, geo data, images etc. from multitude of sources. The solution is network infrastructure agnostic and can be deployed on different network architectures that include multi-domain networks that represent a combination of cloud and physical networks. The scope of Phase I is to set up the prototype while building out two main tools: Network Anomaly detection and Network Performance Prediction modules. The tools will be developed using perfSONAR data and tested on the BigData Express whose goal is data transfer optimization for distributed, extreme-scale science applications. Commercial Applications and Other Benefits: SMART NetOps™ platform provides a smart monitoring framework by leveraging insights from massive complex data from the millions of individual and interactive behaviors of interactions within the network. SMART NetOps™ is flexible with built-in APIs and adapters providing insights to be quickly adopted and transitioned to the emerging Big Data processing markets. Specifically, end-to-end anomaly detection allows for enhanced visibility and integrated troubleshooting capabilities. Network applications and users have distinctively unique content requirements and data usage patterns. This makes the process of optimizing network and improving user experience, time-consuming and difficult. SMART NetOps™ platform leverages its data repository with billions of complex data points and analysis correlating the data with the characteristics of the content being consumed and the conditions of the network at the time of engagement. SMART NetOps™ provides a Quality of Service user interface that benchmarks the networks performance with a real and accurate view of the user experience. Additionally, SMART NetOps™ platform intelligence can also be applied to network security applications. Digital forensics and post-event analysis on major threat is characterized and the insights utilized for learning and future detection of abnormal behavior within the network to prevent malware or security attacks and compliance with legal requirements such as SLAs. It can also be used for criminal services where useful information for tracking criminals can be extracted from multiple information sources in the SMART NetOps™ repository.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2019|$974,933||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/CC/#774)

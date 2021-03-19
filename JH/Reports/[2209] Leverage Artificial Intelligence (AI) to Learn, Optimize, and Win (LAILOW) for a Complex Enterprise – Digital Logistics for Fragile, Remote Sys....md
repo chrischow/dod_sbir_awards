@@ -1,0 +1,19 @@
+
+Leverage Artificial Intelligence (AI) to Learn, Optimize, and Win (LAILOW) for a Complex Enterprise – Digital Logistics for Fragile, Remote Systems (D
+======================================================================================================================================================
+
+# Abstract
+
+
+A complex enterprise with multiple sequential and parallel subsystems needs trusted AI to achieve automation, foster collaborations, and win in unexpected events.  Digital Logistics for Fragile, Remote Systems (DLFRS) is a complex system involving maintenance, requisition, and replacement of personnel and materiel for a long chain of events, activities, actions, and decisions. Not only the inbound and outbound flow, internal and external goods, services, people, and organizations need to be managed, analyzed and secured, but also information flow needs to be managed, analyzed, and secured. The greatest challenge for DLFRS is that processes are dispersed and stove-piped,  with limited information sharing, require constant monitoring, discovery,  prediction, and simulation that receive data feed from chains of subsystems of maintenance, requisition, transportation, and finance, and minimize the downtime of personnel and equipment. Cascade Clean Energy has been conducting business in the integrated areas of data sciences, environmental engineering, and product development.  In the project, we propose to apply and demonstrate an innovative framework that leverages artificial Intelligence to learn, optimize, and win (LAILOW) for DLFRS  towards a product prototype of a minimum viable product  with the technology readiness level 3 or 4. LAILOW for DLFRS evolves the current and complex logistical support for fragile, remote systems that could be impacted by external events (e.g., health emergency, natural disasters and wartime) into a dynamic/agile, reliable, and robust logistical support system and network for enhancing the remote system’s knowledge-of-self, dynamic data sharing and routing, for current and future logistical needs. The LAILOW framework can be set up as a  multi-segment game played by a self-player and the opponent of a complex enterprise such as DLFRS  which contain three components of learn, optimize and win: Component 1 - Learn: The self-player first learns predictive, association, and sequential patterns from historical data;  Component 2 – Optimize: The self-players optimizes the measures of effectiveness (MOEs) or the measures of performances (MOPs), defined by business decision makers, by searching through all possible courses of actions; and Component 3 – Win: In a real-time and dynamic operational environment, the opponent (either environmental or adversarial) generates new operation conditions and events that might change maintenance, manufacturing, and transportation times, in an intent to disrupt the whole complex system, the self-player tries to predict and optimize the actions and decisions to counter the opponent’s state/actions. The whole processes iterate.  If successful, the resulted product will be an example of a resilient and agile DLFRS to improve readiness and sustainment at peace time or at war of DLFRS in the areas of maintenance, supply, transportation, health services, general engineering, and finance.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|Navy|2020|$149,513|machine learning, complex enterprise, , artificial intelligence (ai), lailow, digital logistics, dlfrs|
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JH/#2209)

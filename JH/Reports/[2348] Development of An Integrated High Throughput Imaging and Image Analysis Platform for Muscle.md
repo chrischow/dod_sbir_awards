@@ -1,0 +1,19 @@
+
+Development of An Integrated High Throughput Imaging and Image Analysis Platform for Muscle
+===========================================================================================
+
+# Abstract
+
+
+DESCRIPTION  provided by applicant    There is growing awareness that weakness of muscle is a significant biomedical health issue associated with many different chronic diseases and aging  There are a variety of different diseases that affect muscle  including muscular dystrophy  fibromyalgia  cerebral palsy  amyotrophic lateral sclerosis  and myasthenia gravis  each of which carries its own unique set of symptoms  accompanied by a myriad of genetic and molecular abnormalities  There is agreement within the basic research and clinical communities that important morphological characteristics of muscle fibers  such as fiber cross sectional area  fiber type  the number and position of myonuclei  cellular infiltration  and fibrosis are among many critical factors that determine the health and functionality of the muscle  Until now  the imaging equipment available is relatively low throughput and the quantification is still largely based on manual or  at best  semi automatic methods that require extensive human intervention  In Phase I  CytoInformatics LLC has developed a software called CytoQuant  which can accurately perform automatic segmentation and provide accurate boundaries of each muscle fiber for a cropped image patch  The goal of CytoInformatics LLC in Phase II is to    deliver the first version of the CytoQuant software to the market     develop the second version of CytoQuant by continuously improving its performance  especially in handling large scale  whole slide images  and also    develop an integrated multiplexing imaging hardware and analysis software framework as a seamless solution for high throughput  automated image analysis of muscle specimens  After careful investigation in Phase I  please refer to the details in business plan   we conclude that this integrated software hardware platform with cutting edge technologies in advanced imaging  large scale machine learning  and big data is commercially attractive to the entire muscle community including research institutes  hospitals  and pharmaceutical and athletic companies  demonstrated by strong enthusiasm among end users and many supporting letters  The specific aims are     Deliver the first version of CytoQuant developed in Phase I to the market  continue to develop the second version of CytoQuant  which will focus on improving the robustness and speed in handling whole slide images     Develop an integrated platform that provides unified imaging hardware and image analysis software to handle whole slide images labeled with multiple bio relevant markers  This unified whole slide based software and hardware solution will deliver an efficient and specialized imaging platform that seamlessly integrates with a high throughput  multi marker  and automatic image analysis software specifically designed for muscle PUBLIC HEALTH RELEVANCE   In Phase II  CytoInformatics is proposing a unified whole slide multispectral imaging  MSI  system that seamlessly integrates with a high throughput  accurate  and automated software to provide fast and efficient  multiplexed imaging and quantitative muscle image analysis simultaneously  This will be the first integrated hardware software solution that is specifically designed for muscle  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2016|$1,001,570||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/JH/#2348)
