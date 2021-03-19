@@ -1,0 +1,19 @@
+
+Intelligent Transport Protocol ITP)
+===================================
+
+# Abstract
+
+
+Ennetix will develop an experimental transport protocol, called ITP, which will employ multiple learn- and-infer techniques in congestion avoidance, buffer management, and network coding for forward-error correction) at the Transmission Control Protocol TCP) stack. ITP intends to intelligently manage the congestion-window parameters during the presence of increased loss rate and/or delay, thus achieving very high throughput at the transport layer. Congestion control is at the heart of communication networks since the early days of the Internet. It has evolved significantly over time, and it is continuing to be researched to achieve optimized performance. The primary goal of congestion control is to avoid congestion overload on the network while effectively utilizing the available transmission capacity. Congestion control in today’s Internet is overwhelmingly based on TCP, as TCP/IP is the dominant Internet protocol stack. Many versions of TCP congestion control/avoidance methods have been researched and implemented over the years. Although many of these versions served well in many cases, the emergence of new Internet applications e.g., large-scale data transfer, replication, backup, real-time AR/VR communications, etc.) as well as very-high-speed communication e.g., optical) links require novel and innovative ideas to further improve the transport-layer protocol. To ensure mass adoption, innovations on transport layer should be related to the TCP/IP stack, so that the new solutions are backward-compatible and can be easily applied on existing network infrastructures. Many congestion-control algorithms try to optimize congestion-window parameters to operate in a range which maximizes inflight data. Some of these ideas are based on loss rate, some based on round-trip delays, and a recent one from Google is congestion based. Various studies show the shortcomings of these approaches in different scenarios. Therefore, we believe that the transport-layer congestion-control evolution needs an intelligent and dynamic approach to combine congestion-window management, buffer management, and network coding for forward-error correction as traditional ACK-based backward-error correction would be too slow for high-throughput applications operating over high-speed communication links). Considering these realities, in this Phase I SBIR project, Ennetix intends to design ITP to optimize the congestion-window parameters while also reducing loss rates by implementing intelligent buffer management and utilizing network coding. In ITP, we intend to operate the congestion window at optimal level by estimating and inferring parameters based on historical data using Machine Learning techniques. ITP will also reduce loss rates at TCP stack by employing a) non-intrusive network coding at flow level), and b) efficient buffer management by predicting parameters, based on estimated network conditions. ITP will greatly benefit network users at DOE and other government organizations through an innovative transport protocol which will provide much higher throughput in today’s cloud-based, dynamic, and distributed environments with both short and long Round-Trip Times RTTs). The wider benefits of this effort will extend well beyond the immediate DOE scientific community, and on to common Internet users, other enterprises, and service providers. In particular, many commercial cloud-service providers and enterprises can leverage ITP to implement new use cases and support the next generations of Internet applications.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2020|$200,000||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#796)

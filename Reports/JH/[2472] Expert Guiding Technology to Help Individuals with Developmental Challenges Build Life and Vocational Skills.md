@@ -1,0 +1,19 @@
+
+Expert Guiding Technology to Help Individuals with Developmental Challenges Build Life and Vocational Skills
+============================================================================================================
+
+# Abstract
+
+
+Applied Behavior AnalysisABAremains the most effective and scientifically validated approach to remediate the deficits due to Autism Spectrum DisordersASDand intellectual disabilitiesIDThere are serious challenges in delivering effective ABAunavailability of effective treatment in many placeshigh instructor turnoverloss of program fidelity due to complexity and instructor variabilityonerous data collection that directs attention away from the learnerand the time sink of creating required reports and charts that steals time away from instructional activitiesA software platform named GAINSGuidanceAssessment and Information Systemis being developed that uniquely incorporates artificial intelligence to overcome problems in delivering ABAGAINS is powered by expert guiding software that incorporates knowledge of ABA practice and curricula personalized for the individual with developmental challengesLike Google Maps that guides you step by step and updates as you go alongGAINS guides instructors and caregivers and adapts to client responses on the flyIn this wayexpert guiding technology reduces a priori training requirements in ABA while providing realtime apprenticeship coaching to overcome variability in instructor experience and improve program fidelityImproved program fidelity promotes better learning outcomes of individuals with ASD and IDThe project will evaluate and iteratively innovate expert guiding technology to support the powerfulbut difficult to implementABA technique of Task AnalysisTAThere are two overarching aimsconduct scientifically validclinical trials to evaluate the efficacy of expert guiding technology to support instructors to better help individuals with developmental challenges due to ASD and ID learn life and vocational skills and use the results in Phase I to develop largermore comprehensive clinical trials to be conducted in Phase IIanduse clinical trials in Phase I and Phase II to more effectively identify and prioritize iterative innovations in expert guiding technology as part of successive Design Science Research CyclesSingle Case Research DesignsSCRDwill be used to evaluate expert guiding technology interventions to support Task AnalysisSCRDs are a viable alternative to large group studies such as randomized clinical trialsSingle case studies involve repeated measuresand manipulation of an independent variableSCRD studies allow for rigorous experimental evaluation of intervention effects and provide a strong basis for establishing causal inferencesAdvances in design and analysis techniques for SCRD have made SCRD studies increasingly popular in educational and psychological researchChimes Delaware will be the site for clinical trialsChimes Delaware is one of the largest providers of community services for adults with intellectualautismand co occurring disabilitiesThe project team has worked together for many years and is uniquely qualifiedIf successfulthe increase of scientifically validated technical capabilities of expert guiding technology will profoundly affect clinical practice The clinical trials proposed in this project will provide new scientific knowledge on the efficacy of expert guiding technology to overcome problems in delivering quality ABA therapyIterative innovations of expert guiding technology will greatly increase the technical capabilitiesIf successfulthe increase of scientifically validated technical capabilities of expert guiding technology will profoundly affect clinical practice  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2019|$282,159||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#2472)

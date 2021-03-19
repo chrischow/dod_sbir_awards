@@ -1,0 +1,19 @@
+
+Development of Intelligent Systems for Macromolecular Catalysts, Atomically Precise Membranes and Therapeutics
+==============================================================================================================
+
+# Abstract
+
+
+The state of computational chemistry software is in fragmented. Excellent and trusted academic software, which contains advanced molecular simulation code, exists but is seldom used in industry. Industrial software is closed, expensive and has not proven to be as good a foundation as academic software for developing advanced methods where machine learning can be used to design new molecules and materials. A software environment that combined the polish and convenience of commercial software with the open-source and community of academic software would serve as the foundation for the development of new computational methods. The Schafmeister group, has developed and with ThirdLaw LLC, will commercialize a revolutionary and open-source, computational chemistry programming environment called “Cando”. Within Cando, software applications (Cando-apps) are being developed that apply machine learning to computationally “evolve” functional macromolecules and molecular materials. Cando is an open source, LLVM based programming environment incorporating a compiler for a powerful dynamic programming language tailored for solving problems in molecular design. Cando builds on Unix, MacOS and Amazon Web Services machines and uses a client/server, Jupyter-notebooks based user interface, including molecular visualization and molecular sketching for chemists to interact with. Cando is designed to enable the computational, “evolutionary” design of Molecular Lego, a revolutionary new chemical building block and synthetic assembly method that enable the construction of nanometer scale structures with precise control over their three-dimensional structures. By applying computational evolutionary design to designing Molecular Lego nanostructures, we will create new molecules that act as new medicines, create channels that can filter gasses and small molecules to purify them from mixtures, and create molecular devices that build other molecules like (catalysts). Cando is very general and can be applied to many problems in computational chemistry. In the Phase I project we developed the Cando-app “fep-run” application to carry out free-energy perturbation calculations for drug discovery. We also laid the foundation for the Cando-app “membrane-designer”: to use machine learning to design atomically precise membranes for filtration using Molecular Lego nanostructures. The “fep-run” application is of great interest to pharmaceutical companies and so we focused on getting the prototype completed because it is the shortest path to developing a commercial revenue stream. Cando is open-source using an LGPL 2.0 license and so it will be distributed widely to academic and industrial users. In the Phase II project we will collaborate with pharmaceutical companies to tailor the “fep-run” application to their needs and develop an Amazon Web Services cloud based solution that we will resell to drug discovery companies to efficiently carry out valuable free-energy perturbation calculations at the lowest cost possible. We will also improve Cando and develop web-based training materials. Further - we will develop Cando applications that will use machine learning algorithms to design atomically precise catalysts, membranes and therapeutics.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2019|$1,000,000||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#794)

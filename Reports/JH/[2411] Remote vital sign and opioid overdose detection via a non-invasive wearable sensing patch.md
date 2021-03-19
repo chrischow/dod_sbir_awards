@@ -1,0 +1,19 @@
+
+Remote vital sign and opioid overdose detection via a non-invasive wearable sensing patch
+=========================================================================================
+
+# Abstract
+
+
+PROJECT SUMMARYABSTRACT Approximatelymillion Americans are living with an opioid use disorderand inpeople overdosed on prescription opioidsOpioids cause respiratory depressionhoweverfatal overdose usually occurs over a period ofhoursleaving a window of opportunity to intervene with the inexpensive drug naloxonean opioid antagonistthat can reverse the effects of opioidsquickly restoring normal respiration ratesVivaLNK proposes to enhance the currently marketed Vital Scout wellness wearable sensing patch for use in people at risk for opioid overdoseby detecting physiologic indicators of an opioid overdoseslow respiration ratelow heart rate and low blood pressureand the ability to send a potentially life saving overdose alertwhich could be received by an emergency contact caregiver and hasten treatment with an opioid antagonist such as naloxoneHealth monitoring emergency notification systems that can remotely monitor patient vital signs for indications of deterioration and send a potentially life saving alert to emergency contacts caregivershave the potential to greatly reduce the number of fatal opioid overdoses in the USThe Vital Scout patch is already strategically positioned to monitor overdose parameters utilizing the built in ECG sensor to continuously register waveforms from which respiration rateheart rateheart rate variabilityand activity are calculatedWhile several devices are currently being developed for overdose alertsthe Vital Scout is the only alert which has the potential to capture the three critical vital signs indicative of an overdoseand simultaneously monitor physical activityproviding additional context to the vital signs dataThe vital signs collected by the Vital Scout patch are based on a machine learning algorithm which we propose to further develop by the following specific aimsRefinement and optimization of the Vital Scout to incorporate an overdose algorithm with an alert function by improving the sensitivity in order to detect lower respiration and heart rate indicative of a potential overdoseExpand the sensing capabilities of the Vital Scout system to include blood pressure monitoringThe algorithm will be optimized using three volunteer cohortscohortihealthy volunteersiielderly patients over the age ofmore likely to have low BP due to medically induced hypotensionandiiilow BP patientsrepresented by elite student athletesData from these cohorts will provide the initial broad range of data for the machine learning linear regression algorithmWe will assess whether these are appropriate designations for providing accurate blood pressure measurementssimilar to what is seen within the opioid populationMeeting all of these goals will result in an enhanced Vital Scout that will be the most sensitive device for opioid overdose detection to remotely monitor the vital signs of people addicted to opioids and those at risk for opioid overdoseincluding but not limited topeople with pulmonary disease or those taking antidepressants PROJECT NARRATIVE The US is experiencing an opioid epidemicwith approximatelymillion Americans living with an opioid use disorderand inpeople overdosed on prescription opioidsHealth monitoring emergency notification systems that can remotely monitor patient vital signs for indications of deterioration at out patient aftercare facilitiesor at homeand send a potentially life saving alert to emergency contacts caregivershave the potential to greatly reduce the number of fatal opioid overdoses in the US  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2019|$299,814||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#2411)

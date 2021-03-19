@@ -1,0 +1,19 @@
+
+Enabling of a Wireless and Remotely Monitored Deep Brain Stimulation System through the Internet of Medical Things for Parkinson&#039;s Disease Patients
+========================================================================================================================================================
+
+# Abstract
+
+
+Project Summary The objective of this project is to demonstrate feasibility of a novel platform technology using ultrasonic waves for wireless bidirectional real time communication and powering of a Bilateral Deep Brain StimulationDBSsystem with remote patient monitoringDBS has become an established neurosurgical procedure with overpatients treated worldwideDBS has been shown to improve Parkinsonandapos s diseasePDpatient quality of lifeincrease long term tremor controlreduce dyskinesiaand reduce hyperdopaminergic behavioral symptomsSome of the most common complications associated with this procedure are injury caused by wire lead tunnelingerosions or infections of the tunneled wireslead failure migrationand tethering of extension cablesNone of the current solutions are leadless and allow for remote monitoring due to limitations of wireless interconnected devices in the bodyBionet Sonarandapos s software defined UsWB proprietary technology is capable of transmitting energy and data via ultrasonic waves through tissueboneand fluids at penetration depths significantly higher than RF waves and with greater reliabilityThe Bionet platform includesiReprogrammable wireless stimulation leadsiiRechargeable system controller to coordinate withrechargeand reprogram other implantable elements of the network through the ultrasonic interfaceiiiExternal recharging and communication patch to act as a power data gateway to interconnect the intra body network with the InternetAn intelligent DBS device that can be monitored by clinicians and provide feedback control to optimize therapy using remote continuous real time data will lead to improved PD treatment options and informed treatment decisions individualized for each patientpoint of careIn this Phase I studyfeasibility for wireless power and remote monitoring with the Bionet system will be demonstrated by completing the following Specific AimsSpecific AimDemonstrate in vitro feasibility of controlled deep brain stimulationrecharging and remote monitoring components using ultrasonic waves at typical implantable tissue depthsSpecific AimDemonstrate in vivodata and energy transmission for the systems during controlled stimulation of the brainIn vivo experiments in minipig modelsnwill be used to demonstrate the ability of the system to transmit data and energy from the subcutaneous controller to the pacing nodes using closed loop control based on real time electrical sensingThis proposal leverages the strengths of Bionet Sonar Incand the University of LouisvilleOur long term goal is to successfully translate the Bionet Sonar system into clinical practiceThe core platform technology may also be applied to other networked systems for the treatment of diverse etiologies opening a new frontier in multimodal patient treatment and use of Artificial Intelligence for patient care Project Narrative Through this proposal a wireless remotely monitored deep brain stimulation system will be developed using new core technology for the Internet of Medical ThingsUltrasonic wideband technology will be used to enable wireless communication and recharging of the different implantable elementsallowing for miniaturization and energy efficiencyThis technology will not only improve the outcomes and healthcare economics of the Parkinsonandapos s disease patient populationbut may also enable other innovative therapies in other populations  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2019|$328,562||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#2479)

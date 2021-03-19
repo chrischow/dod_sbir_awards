@@ -1,0 +1,19 @@
+
+Technology Application to Enhance Discharge Referral Decision Support
+=====================================================================
+
+# Abstract
+
+
+DESCRIPTION  provided by applicant   Decreasing readmissions through better discharge planning  DP  and transitional care is a national healthcare priority  RightCare Solutions has leveraged over    years of interdisciplinary academic research led by a nurse researcher  and through our highly successful phase one SBIR grant demonstrated market value for the D S  product and the technical expertise of our team  The D S  is a six item decision support tool installed by RightCare Solutions in the hospital EHR to assist discharge planners to identify high risk patients upon admission allowing time and focus to target appropriate transitional and post acute care to prevent readmissions  We have achieved outstanding outcomes from our phase   award and are proposing further technological developments to enhance our commercial launch  The market potential for the D S  tool is significant since discharge decision support is estimated to be applicable to roughly       U S  hospitals with a census that is     older adults equaling    million discharges per year  The phase   results indicate a significant impact on    and    day readmissions giving us strong evidence as to the value of the product  However  the results and our experience using the software indicate there is opportunity to enhance the productandapos s accruacy and functionality  We propose to enhance our predictive accuracy through innovative data mining and machine learning techniques and to improve the functionality by electronically connecting the acute and post acute care settings  Due to implementation in the three hospitals of the University of Pennsylvania Health System we have data on over       patients and through the continued live implementation we will accumulate data on over        patients by the start of the phase   grant  Using existing  and new data generated from continued operations  this proposed SBIR grant will advance the product in two major ways to enhance the commercial benefit to its users  Aim    Develop  test  and scale SMART capabilities  a dynamic process for improving prediction accuracy  by using hospital specific and patient level characteristics  D S  variables and additional clinical and non clinical characteristics  and modern data mining machine learning techniques  AIM    Operationalize the D S  recommendations by electronically connecting high risk patients with post acute care  PAC  providers and stakeholders  known as CONNECT capabilities  Called a andquot learning health systemandquot  the end  product of this SBIR grant will provide continuous evaluation and improvement to the end user measured against their goals  Our innovative design produces a closed loop system that will use data from the D S  and hospital databases over time to andquot get smarter andquot  Further  our enhanced product will link acute care to post acute providers giving them advanced warning of patients who will shortly come to them for care PUBLIC HEALTH RELEVANCE  This decision support software identifies high risk patients upon admission and alerts the clinicians in acute and post  acute care  This project will enhance the toolandapos s SMART capabilities to improve its predictive accuracy and will CONNECT patients and providers with post acute settings to coordinate the care transition  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2014|$1,490,735||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#2570)

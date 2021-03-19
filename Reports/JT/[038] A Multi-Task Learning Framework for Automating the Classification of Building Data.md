@@ -1,0 +1,19 @@
+
+A Multi-Task Learning Framework for Automating the Classification of Building Data
+==================================================================================
+
+# Abstract
+
+
+Buildings account for 30% of global energy consumption and 28% of global energy-related carbon emissions [27]. Advanced software has demonstrated an ability to unlock individual and building portfolio energy savings up to 47% and 33%, respectively [1]. Despite the compelling environmental and energy saving value proposition, the majority of commercial buildings do not employ such software due to the significant time, cost and effort of data integration. Today, it is necessary to employ expert personnel to manually gather, organize and ‘map’ disparate operational data before making use of that information in various software applications (e.g. tenant comfort, energy analytics, etc.). This manual effort can take more than 800 hours—100 work days—for an individual to perform this activity for a single building [6]. Furthermore, this manual effort is not transferrable between different software applications— it merely transmits data from one silo to another. In addition to missed energy saving opportunities, the industry’s lack of seamless data management across building systems generates an annual loss of $22 billion dollars in the U.S. alone [2]. Building owners and operators bear two-thirds of this cost, or $14 billion dollars, throughout a building’s ongoing operation and maintenance [2]. This Small Business Innovation Research Phase II project will result in a marketable ‘end-to-end platform’ for acquiring, storing, normalizing, performing-quality-assurance, and distributing actionable building data. This work will be the basis for Onboard’s ‘Opera API’ product; the most intuitive and cost- effective interoperable data source for a variety of building data use-cases. Onboard’s ‘Opera API’ software will eliminate data compatibility issues within our nation’s commercial buildings, and spur the digital transformation of our most familiar spaces—offices, schools and hospitals. During Phase I, Onboard developed four machine learning modules to predict point type, equipment type, equipment instance, and equipment relationship. Onboard also developed an OCR pipeline that can extract information from mechanical drawings, and validate the results from other classifiers. The Phase I research was successful in reducing the time, expense and human effort required to label building metadata. Onboard faces remaining technical challenges from a lack of methods to utilized less-structured engineering drawings used by human experts. We also face challenges from maintaining many different software pipelines with specialized functions for the classification of each metadata label or task. It is also still challenging for personnel to manually validate and correct the predictions from our framework. In the Phase II Project, Onboard will develop a novel computer vision and OCR methods to extract data from three new types of engineering drawings. Onboard will develop and test a Multi-Task Learning (MTL) framework that can take advantage of the information contained in multiple related tasks and improve the generalization performance across all tasks. Onboard will productize the MTL framework, develop an easy-to-use interface to quickly validate or correct metadata labels and test the ‘end-to-end platform’ on unseen test buildings.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2020|$1,149,959||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#38)

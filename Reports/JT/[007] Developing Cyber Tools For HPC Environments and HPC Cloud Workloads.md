@@ -1,0 +1,19 @@
+
+Developing Cyber Tools For HPC Environments and HPC Cloud Workloads
+===================================================================
+
+# Abstract
+
+
+The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to help system administrators, security managers, Security and Risk analysts and CISO’ professional and institutions to improve the security of High Performance Computing systems by providing enhancement to the Flower Cyber tool to ensure continuous monitoring, situation awareness, endpoint logging, reporting, predictive analysis , data collections, traffic pattern detections  , artificial cognitive analysis of security data for unstructured data , remediation, self-healing and auto discovery and recovery in effort to protect these vital assets from Cyber- attacks internally and externally. Enhancing existing Technology-The Flower Software application will apply cognitive artificial intelligences to perform big data analysis and automatically scan data that will enable systems to perform self-healing functions to recover from component failures and attacks. This Small Business Innovation Research(SBIR) Phase 1 project is aimed at enhancing Flower software technology that automatically integrate and analyze both structure and unstructured data from the network for analysts to be able to counter and proactively prevent attacks on the network from external and internal threats on the systems by applying HPC behavior analytics that will generate predictive threat and risk assessments that will provide remediation mechanisms to alleviate adverse attack on the network from Cyber criminals and recovery actions. The long-term benefits would secure the most crucial asset which is data. The investment in Cyber Security would outweigh the costs of having to spend millions of dollars on recovering from a cyber-attack. Organizations are starting to recognize that the costs are substantial when it is a longer timeframe to detect and contain a data breach. The SBIR innovation will provide a return on investment to organizations who are investing in cyber security technologies due to the reduction of costs of lost data, business and customers. Companies are likely to lose customers due to data breaches which increase the costs of not investing in cyber prevention technologies. Regulated industries such as healthcare and financial services face higher costs of data breaches because of fines and loss of customers and business. The tools would help reduced the need for additional skilled Cyber analysts. Security professional can leverage the tools to automatically access data versus manually gathering data. We propose customer purchase Flower as a Software as a Service On premise or n a Cloud model. Many customers are adopting this economy of scale because of cost savings versus paying for service consulting fees to companies as a one-time engagement. We are flexible to customer who would like to us the consulting service model of engagement. The project will develop Flower for enhanced functionalities such as: (i) tools to analyze massive data for meaningful insight to detect anomalies with the help of cognitive technology to scan data faster; (ii) provide recommendations based on events and patterns in the data and steps for remediation; (iii) automation of analyzing data for Cyber analyst for different data sources (iv) repository to store captured date; (v) Graphic user interface for visualization tool for analysts to capture real time data; (vi) Enable analysts to predict certain outcomes based on patterns and situations, behavior analysis.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2017|$229,713||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#7)

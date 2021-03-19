@@ -1,0 +1,19 @@
+
+Detecting Middle Ear Fluid Using Smartphones
+============================================
+
+# Abstract
+
+
+PROJECT SUMMARY Otitis media is one of the most common childhood diseases in developing countriesmany of its complications are preventable if middle ear fluid is detected earlyWe propose an accessible and accurate smartphone based screening tool thatisends a soft acoustic chirp into the ear canal using the smartphone speakeriidetects reflected sound from the eardrum using the smartphone microphoneandiiiemploys a machine learning model to classify these reflections and predict middle ear fluid status in realtimeGiven the ubiquity of smartphones and the inaccuracy of visual otoscopythe system we propose has the potential to be the default screening tool used in developing countries by healthcare providers and caregivers at home PROJECT NARRATIVE Otitis media is one of the most common childhood diseases in developing countries affecting overbillion people inand can lead to complications such as hearing lossdevelopmental delaymeningitismastoiditisand deathMany of these complications are preventable if middle ear fluid is detected earlyHoweverthe absence of an accurate and accessible method to detect middle ear fluid has led to high misdiagnosis ratesThe consequence is associated hearing and speech impairment rates greater than any other pediatric condition and growing microbial resistance as a result of antibiotic over prescriptionCurrentlythe technique of choice for detecting middle ear fluid by primary care providers is visual otoscopywhich has a diagnostic accuracy as low asAlthough more accurate methods like tympanometry and pneumatic otoscopy existthey require significant expertise and referral to a specialistCommercial acoustic reflectometers and smartphone mounted otoscopes require specialized hardwareThusthere is an urgentunmet need for an accuraterapid and easily accessible method for resource limited healthcare providers and caregivers to detect middle ear fluidThis project aims to demonstrate the feasibility of using the speakers and microphones on existing smartphones to detect middle ear fluid by assessing eardrum mobilityOur proposed system would operate byisending a soft acoustic chirp into the ear canal using the smartphone speakeriidetecting reflected sound from the eardrum using the smartphone microphoneandiiiemploying a machine learning model to classify these reflections and predict middle ear fluid statusNo additional attachments would be required beyond a paper funnelwhich acts as a speculum to reduce waveform variability and can be constructed with printer paperscissorsand tapeThis technique is the first software based screening tool for middle ear fluid detection that uses off the shelf smartphones which does not require hardware attachments or visual interpretationUsing data from our existing preliminary clinical study we aim to develop signal processing and machine learning algorithms to optimize sensitivity and specificityWe plan to develop a bench testing technique that enables previously unsupported smartphones to to run our test and prospectively validate our optimized algorithm clinically in parallel testing with an acoustic reflectometerFurther we aim to develop a user interface and improved funnel designThese new designs will undergo usability testing in physician and parent populationsGiven the ubiquity of smartphonesour app has the potential to be the default screening tool used in developing countries by healthcare providers and caregivers at home  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+|National Institutes of Health|2019|$223,857||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#2421)

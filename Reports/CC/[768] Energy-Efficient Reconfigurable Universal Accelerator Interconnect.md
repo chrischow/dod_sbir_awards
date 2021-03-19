@@ -1,0 +1,19 @@
+
+Energy-Efficient Reconfigurable Universal Accelerator Interconnect
+==================================================================
+
+# Abstract
+
+
+Recent advances in computing systems fundamentally changed the way we run our everyday lives; our healthcare, finances, scientific discoveries, and entertainment activities all heavily depend on computing infrastructures, and we are likely to increasingly depend on them in the future. However, typical high-performance-computing systems and datacenters already consume megawatts of power, and future computing systems must consider energy-efficient, parallel, and accelerated processing that can be commercially deployed. The proposed project pursues energy-efficient, high-performance, and universal accelerator interfaces to sustain the ever-increasing demand for scalable and ubiquitous computing processing power. It is well known that application specific computing systems optimally designed and configured for a given workload offer much higher energy-efficiency and throughput compared to general purpose systems. Heterogeneous computing systems exploiting energy and performance benefits of combining various different domain-specific processor architectures have emerged in modern computing systems of different scales. Application domains like high performance computing and machine learning now process data sets of terabytes in size, requiring increasing numbers of processing and memory resources, at the expenses of very high- power consumption due to bottlenecks in the electrical interconnection between processing units. This project aims at significantly reducing the communication energy and latency, introduce universally available accelerators integrated with silicon photonics, and significantly increasing the throughput of these systems by exploiting emerging technologies in silicon photonic reconfigurable interconnects to optimally run at all time as data flow patterns change for specific application workloads. Phase I plan is to complete all designs necessary and to demonstrate all critical technologies in preparation for Phase II and for ultimate commercialization. In particular, we will demonstrate (a) multi-wavelength lasers, (b) all-to-all interconnection utilizing cyclic wavelength routers, (c) silicon photonic transceivers integrated with electronic drivers on 3D packaging, (d) fiber integration into silicon photonics and micro-optical connectorization, (e) designs of 14 nm transceiver drivers for 32 channel silicon photonic modulators/detectors on active interposers, (f) designs of low-parasitic copper pillar based 3D (flip-chip) integration of the electronic transceiver driver dies on active silicon photonic interposers containing modulators and detectors, (g) designs of cyclic 16×16 wavelength routers, (h) designs of 1×32 wavelength muxes, (i) designs of multi-wavelength lasers, and (j) designs of an accelerator computing system containing at least 10 heterogeneous accelerators, processors and memory banks interconnected through the proposed universal accelerator reconfigurable optical interconnection system. The successful completion of this project will lead to significant improvements in energy and performance of large-scale data centers and high- performance computing systems, paving the way for the wide-spread of emerging artificial intelligence applications which are heavily relying on application-specific accelerator units.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2019|$231,470||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#768)

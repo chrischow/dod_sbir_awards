@@ -1,0 +1,19 @@
+
+Flaw Sizing Techniques for GWPA Inspection of DST Primary Liner Floors
+======================================================================
+
+# Abstract
+
+
+Monitoring the integrity of underground, double-shell tanks (DSTs) utilized for the interim storage of high-level waste (HLW) is critical for protecting human health and the environment while supporting their critical role in the waste processing and disposition process. In-service inspections of physically-accessible areas of the primary and secondary liners are conducted to assess leak integrity, but the failure of an in-service DST tank provides clear evidence that this is an insufficient inspection scope. To more-fully assess the leak integrity of in-service HLW storage tanks, a method must be developed for inspecting the limited-access tank regions as well. Guidedwave (FBS, Inc.) proposes to develop and mature a guided wave phased array (GWPA) technology for remote volumetric inspection of high-level waste (HLW) double-shell tank (DST) primary liner floors via access through refractory pad air slots. During the past two years, Guidedwave has adapted the GWPA technology for the purpose of Hanford nuclear waste DST primary liner floor inspection in cooperation with Washington River Protection Solutions (WRPS) and Pacific Northwest National Laboratory (PNNL). Efforts to date have included feasibility trials to demonstrate the sensitivity, range, and capabilities of the GWPA technology on representative mockups and an initial round of sensor modifications to meet the access constraints of the refractory pad air slots and to be compatible with a robotic deployment system. Guidedwave has demonstrated that the GWPA technology is an excellent fit for this application and that it can provide efficient, reliable detection of corrosion and crack detection in open floor plates and welds. Guidedwave proposes further maturing the technology and extending its usefulness to the DOE and WRPS by evaluating the potential for flaw sizing (depth and area) using additional processing of the GWPA scan data beyond simple amplitude analysis. Guidedwave proposes partnering with PNNL to develop physically-based signal features including multiple guided wave mode amplitudes, frequency spectra, phase information, and more and analyze these features to extract meaningful correlations between them and flaw size. PNNL has a large DST liner floor mockup with a wide range of simulated corrosion and crack flaws that would be an excellent test bed for GWPA data collection and can also provide data analytics expertise that can be applied to the physically-based signal features extracted by Guidedwave. The ability to accurately size flaws in the DST liner floors would greatly enhance the usefulness of the GWPA scanner technology and would provide critical information to WRPS that would inform their decision-making process.The guided wave phased array (GWPA) technology is being developed for a wide array of non-destructive evaluation applications in the aerospace, marine, defense, oil & gas, and energy industries. This emerging technology can provide unparalleled inspection coverage and speed for large-area corrosion inspection that leverages the advantages of ultrasonic guided wave testing, which is already an accepted technique for long-range pipe inspection, and applies it to plate-like structures, which opens up a massive, untapped market. The flaw sizing techniques that would be developed under this project would be directly applicable to other GWPA applications.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2019|$197,371||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#782)

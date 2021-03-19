@@ -1,0 +1,19 @@
+
+Accessible Artificial Intelligence Tutoring Software (Phase II SBIR)
+====================================================================
+
+# Abstract
+
+
+DESCRIPTION (provided by applicant): This Phase II proposal focuses on the development of accessible artificial intelligence (AI) software for individualized tutoring and formative assessment in chemistry education. If successful, an immediate outcome will be the very first AI tutoring systems for chemistry that are accessible to blind students, delivered through the Internet. An AI tutoring methodology formulated with accessibility inherent to the design will have broad implications for the prospect of developing sophisticated accessible educational software in all content areas, beyond chemistry. Furthermore, classroom teachers can obtain individualized assessment reporting and diagnostic information for visually impaired students on demand, as if from a "virtual teaching assistant". Feasibility of Phase I was demonstrated by developing a prototype accessible AI tutoring program that received certification in the National Federation of the Blind's (NFB) Nonvisual Accessibility Web Application Certification Program. In previous SBIR projects, Quantum has successfully innovated new concepts in the field of AI and has developed, tested and brought to the classroom tutoring and assessment systems for science and mathematics education. Certain unique attributes of the Quantum AI Tutors make them potentially very well suited for full accessibility to the blind, as well as individuals with other print-related disabilities, using Internet- capable screen reader technology. The potential technological innovation is the development of the first advanced AI chemistry tutoring technology that has accessibility built into its framework design. Important Phase II objectives include:  Continued progress on chemistry-specific accessibility issues. Completion of full accessibility support in AI framework itself. Implementation of Braille support for chemical formulas and equations. Investigation of chemistry-specific pedagogical issues for blind students. Extension to accessible science assessment for blind/VI students, building on AI assessment technology currently under development by Quantum in other projects. Special education is a particular challenge for assessment within the No Child Left Behind legislation. Preparation for success in Phase III has already been undertaken by involving partners that are important commercially as well as technically, such as the National Federation of the Blind and the American Printing House for the Blind (APH). In addition, Quantum has long-term partnerships with McGraw-Hill and Holt, Rinehart and Winston, two of the country's leading educational publishers, as well as two additional commercial agreements with major science education supply companies, Science Kit & Boreal Laboratories and Sargent-Welch. Chemistry comprises the majority of the content standard for physical science in the National Science Education Standards, and yet is one of the most neglected areas in terms of quality educational software, in general, and is a particularly acute problem for the blind and visually impaired. Through recent federally-supported research, Quantum Simulations, Inc. has successfully developed, tested and brought to the classroom the very first artificial intelligence (AI) tutoring systems for chemistry. The goal of the present research is to bring the full power and benefit of this cutting-edge new educational technology to students who are blind and visually impaired using Internet-capable screen access technology.  
+
+# Award Details
+
+|Branch|Award Year|Award Amount|Keywords|
+| :---: | :---: | :---: | :---: |
+||2007|$366,168||
+  
+  
+
+
+[Back to Home](https://github.com/chrischow/dod_sbir_awards#1252)
