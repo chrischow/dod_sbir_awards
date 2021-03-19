@@ -16,4 +16,4 @@ Discovery Machine, Inc. (DMI’s) objective is to research a hybrid symbolic and
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#1744)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/DJ/#1744)

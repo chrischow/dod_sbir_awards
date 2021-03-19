@@ -16,4 +16,4 @@ ARTIFICIAL INTELLIGENCE FOR COMMAND AND CONTROL (BRIGADE COURSE OF ACTION GENERA
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#871)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/CC/#871)

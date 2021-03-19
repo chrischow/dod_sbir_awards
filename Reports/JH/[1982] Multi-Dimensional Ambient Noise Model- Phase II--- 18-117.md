@@ -16,4 +16,4 @@ At its core, the process of predicting the spectral and directional structure of
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#1982)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/JH/#1982)

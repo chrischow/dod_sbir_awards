@@ -16,4 +16,4 @@ We propose a hybrid NLP solution: a medical ontology system from Mayo Clinic, th
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#2284)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/JH/#2284)

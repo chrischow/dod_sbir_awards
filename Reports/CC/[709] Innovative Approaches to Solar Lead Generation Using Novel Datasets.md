@@ -18,4 +18,4 @@ ClearGrid will commercialize a Household Attractiveness Index to solar marketers
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#709)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/CC/#709)

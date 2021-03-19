@@ -16,4 +16,4 @@ GBL proposes the Rapid Artificially Intelligent Strike Mission Planner (RASP) to
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#1967)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/JH/#1967)

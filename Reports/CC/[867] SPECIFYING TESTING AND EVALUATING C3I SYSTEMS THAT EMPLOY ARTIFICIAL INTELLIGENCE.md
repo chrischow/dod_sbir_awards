@@ -16,4 +16,4 @@ SPECIFYING TESTING AND EVALUATING C3I SYSTEMS THAT EMPLOY ARTIFICIAL INTELLIGENC
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#867)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/CC/#867)

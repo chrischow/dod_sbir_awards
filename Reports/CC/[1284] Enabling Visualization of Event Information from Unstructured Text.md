@@ -16,4 +16,4 @@ We propose to address two outstanding problems encountered in event extraction a
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#1284)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/CC/#1284)

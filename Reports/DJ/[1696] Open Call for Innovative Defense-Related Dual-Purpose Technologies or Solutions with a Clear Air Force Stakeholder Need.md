@@ -16,4 +16,4 @@ Agolo (New York, NY) provides an AI-driven text summarization platform. The Agol
   
 
 
-[Back to Home](https://github.com/chrischow/dod_sbir_awards#1696)
+[Back to Home](https://github.com/chrischow/dod_sbir_awards/Reports/DJ/#1696)
